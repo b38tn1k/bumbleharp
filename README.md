@@ -21,5 +21,5 @@ The velocity tracking is pretty oldschool but works really nice - each 3D printe
 
 ### CAD
 
-[CAD is available in On Shape](https://cad.onshape.com/documents/0926d3b181919805e37e47c7/w/9472cb1f4be91defec4fba22/e/4f739bf295eab5d1871a2a5f)
+[CAD is available in Onshape](https://cad.onshape.com/documents/0926d3b181919805e37e47c7/w/9472cb1f4be91defec4fba22/e/4f739bf295eab5d1871a2a5f)
  
