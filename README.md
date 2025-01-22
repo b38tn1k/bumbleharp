@@ -1,5 +1,7 @@
 # Bumble Harp
 
+A 3D printed velocity sensitive [Tonnetz](https://en.wikipedia.org/wiki/Tonnetz) MIDI controller.
+
 ### BOM
 
 - a pile of 6x2mm circle magnets
