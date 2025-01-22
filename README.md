@@ -32,6 +32,8 @@ The handle is not print in place. I did some print in place tests and they work 
 
 ![Back CAD Render](./images/back.png)
 
+1[Various Prototypes](/images/protos.png)
+
 
 
 ## init / Jan 14 2025
